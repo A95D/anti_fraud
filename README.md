@@ -68,7 +68,7 @@
 Витрина хранит агрегаты, готовые для использования в BI.
 
 Логическая модель:
-![er_mart](src/pictures/er_mart.jpg) 
+![er_mart](src/pictures/er_mart.png) 
 
 ---
 
